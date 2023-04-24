@@ -1,3 +1,5 @@
+package ru.netology.store;
+
 public class Product {
     protected int id;
     protected String title;

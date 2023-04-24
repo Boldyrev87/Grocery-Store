@@ -1,3 +1,5 @@
+package ru.netology.store;
+
 public class ShopRepository {
     private Product[] products = new Product[0];
 
